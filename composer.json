@@ -1,6 +1,6 @@
 {
     "name": "michael-bouvy/monolog-desktop-extensions",
-    "description": "Monolog handlers for desktop notifications.",
+    "description": "Monolog extensions (handlers / formatters) for desktop notifications (notify-send, Growl ...).",
     "minimum-stability": "dev",
     "type": "library",
     "license": "MIT",
