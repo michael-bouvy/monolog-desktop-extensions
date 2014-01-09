@@ -10,6 +10,17 @@ Usage
 
 See `examples/linux-notification.php`.
 
+Handlers
+--------
+
+####NotifySend
+
+Uses Linux's `libnotify`, check you have `libnotify-bin` installed locally.
+
+####Growl
+
+To come.
+
 Install
 -------
 
