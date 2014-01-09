@@ -24,4 +24,14 @@ To come.
 Install
 -------
 
-Installation via composer / packagist coming soon.
+####Via composer
+
+Just require the library in your `composer.json` :
+
+```json
+{
+    "require": {
+        "michael-bouvy/monolog-desktop-extensions": "dev-master"
+    }
+}
+```
