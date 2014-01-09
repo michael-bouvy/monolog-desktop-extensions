@@ -1,0 +1,21 @@
+{
+    "name": "michael-bouvy/monolog-desktop-extensions",
+    "description": "Monolog handlers for desktop notifications.",
+    "minimum-stability": "dev",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael BOUVY",
+            "email": "michael.bouvy@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "monolog/monolog": "1.7.0",
+        "symfony/process": "v2.4.1"
+    },
+    "autoload": {
+        "psr-0": {"Mibou": "src/"}
+    }
+}
