@@ -1,7 +1,6 @@
 {
     "name": "michael-bouvy/monolog-desktop-extensions",
     "description": "Monolog extensions (handlers / formatters) for desktop notifications (notify-send, Growl ...).",
-    "minimum-stability": "dev",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -11,9 +10,9 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
-        "monolog/monolog": "1.7.0",
-        "symfony/process": "v2.4.1"
+        "php": "^5.4",
+        "monolog/monolog": "^1.7",
+        "symfony/process": "^2.4"
     },
     "autoload": {
         "psr-0": {"Mibou": "src/"}
